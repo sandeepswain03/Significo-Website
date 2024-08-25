@@ -1,0 +1,18 @@
+@font-face {
+  font-family: Machina;
+  src: url(../assets/659dbdfd5a080be8d348316e_PP\ Neue\ Machina\ Inktrap\ Medium.ttf);
+}
+
+@font-face {
+  font-family: Machina-Light;
+  src: url(../assets/659dbdfd5a080be8d348316f_PPNeueMachina_\ Light.ttf);
+}
+
+@font-face {
+  font-family: Satoshi;
+  src: url(../assets/659dbdfd5a080be8d3483173_Satoshi-Variable.ttf);
+}
+
+.videoDiv {
+  clip-path: circle(var(--clip) at 50% 50%);
+}
